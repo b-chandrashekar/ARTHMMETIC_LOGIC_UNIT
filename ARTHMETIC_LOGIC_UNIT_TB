@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+//timescale 1ns / 1ps
 
 module ALU_tb;
 
@@ -63,4 +63,4 @@ module ALU_tb;
         $stop;
     end
 
-endmoduleA
+endmodule
